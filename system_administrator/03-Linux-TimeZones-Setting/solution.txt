@@ -1,0 +1,15 @@
+SSH into Nautilus App Server 1, Nautilus App Server 2, and Nautilus App Server 3
+
+	ssh tony@stapp01
+
+	ssh steve@stapp02
+
+	ssh banner@stapp03
+
+Check the current timezone setting
+
+	timedatectl
+
+Change the current timezone setting to Indian/Mauritius
+
+	sudo timedatectl set-timezone Indian/Mauritius
