@@ -52,13 +52,13 @@ Systemd is a modern init system for Linux: a system and service manager which is
 
     ![default-run-level](img/a5.jpg)
 
-3. change the multi-user.target to graphical.target
+3. use sudo as administrator priviledge to change the multi-user.target to graphical.target
 
     ![change-default](img/a3.jpg)
 
     ![change-default](img/a6.jpg)
 
-4. ssh, get default, and change default for app server3
+4. ssh, get default, and use sudo as administrator priviledge to change default for app server3
 
     ![change-default](img/a7.jpg)
 
